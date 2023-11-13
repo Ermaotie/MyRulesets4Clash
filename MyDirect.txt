@@ -1,0 +1,3 @@
+payload:
+  - 'ghproxy.com'
+  - '.1b.mk'

@@ -1,7 +1,11 @@
 payload:
-  - 'ghproxy.com'
+  - '+.ghproxy.com'
+#  - '.1b.mk' # 三级域名
+#  - '+.1b.mk' # 二级、三级域名
+#  - '*.1b.mk' # 三级域名
+#  - '+.1b.*' # 二级域名关键字匹配
   - 'clash.razord.top'
   - 'yacd.haishan.me'
-  - 'webofscience.com'
-  - 'webofknowledge.com'
-  - 'clarivate.com'
+  - '+.webofscience.com'
+  - '+.webofknowledge.com'
+  - '+.clarivate.com'

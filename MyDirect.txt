@@ -1,3 +1,7 @@
 payload:
   - 'ghproxy.com'
-  - '1b.mk'
+  - 'clash.razord.top'
+  - 'yacd.haishan.me'
+  - 'webofscience.com'
+  - 'webofknowledge.com'
+  - 'clarivate.com'

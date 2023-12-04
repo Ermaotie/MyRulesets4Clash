@@ -9,3 +9,4 @@ payload:
   - '+.webofscience.com'
   - '+.webofknowledge.com'
   - '+.clarivate.com'
+  - '+.ieee.org'

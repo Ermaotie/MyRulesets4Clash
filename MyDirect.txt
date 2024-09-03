@@ -10,3 +10,4 @@ payload:
   - '+.webofknowledge.com'
   - '+.clarivate.com'
   - '+.ieee.org'
+  - '+.water520.com'

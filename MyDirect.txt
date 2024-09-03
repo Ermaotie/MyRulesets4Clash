@@ -11,3 +11,4 @@ payload:
   - '+.clarivate.com'
   - '+.ieee.org'
   - '+.water520.com'
+  - '+.qq.com'

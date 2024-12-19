@@ -12,3 +12,4 @@ payload:
   - '+.ieee.org'
   - '+.water520.com'
   - '+.qq.com'
+  - '+.open.cd'

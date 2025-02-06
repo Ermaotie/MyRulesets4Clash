@@ -14,3 +14,4 @@ payload:
   - '+.qq.com'
   - '+.open.cd'
   - '+.leniter.org'
+  - '+.hdcity.work'

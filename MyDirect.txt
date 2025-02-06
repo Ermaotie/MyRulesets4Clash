@@ -13,3 +13,4 @@ payload:
   - '+.water520.com'
   - '+.qq.com'
   - '+.open.cd'
+  - '+.leniter.org'
